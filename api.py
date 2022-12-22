@@ -1,4 +1,0 @@
-apikey = 'aPzUAZTuwYBt9N7DXM6kx29LJ3OuFTQzG1dby3eyj2SSIXaqzRLgrAzvFtroF6dC'
-secret = '6JbgJQC1SrdHfDZJxHNgKooWslbZHEBhdUzMi8xOT9pRthUotkCJirdVKEedH8Yd'
-
-botAPI = '1808234362:AAFpylUVsgkKIlc58H00kBhFmvVCa0lhRMc'
