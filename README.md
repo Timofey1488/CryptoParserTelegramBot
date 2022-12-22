@@ -13,7 +13,7 @@ async def stop_message(message):
     checkTimer = False
     await bot.send_message(message.chat.id, "Timer is stopped")
 ```
-#### 2) If you enter number - timer is started
+#### 2) If you enter integer number - timer is started
 
 ```python
 @dp.message_handler()
