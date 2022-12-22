@@ -1,5 +1,5 @@
 ## This is my own project and first experience with binance api
-
+All process i written here..
 ### Functions, that I already written
 #### 1)Function start - show tutorial about telegram bot, stop - stopped timer
 ```python
